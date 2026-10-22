@@ -1,0 +1,9 @@
+# Este repositorio solo contiene texto. Ningun binario, ninguna clave, ningun contenido de juego.
+*.exe
+*.jar
+*.zip
+*.mp3
+*.pem
+*.pfx
+*.p12
+*.key
